@@ -1,17 +1,17 @@
 {"urls": [
-{"url": "clan://localhost/Box/box.json","name":"接口合集"},
-{"url": "clan://localhost/Box/app.json","name":"app接口"},
-{"url": "clan://localhost/Box/hk.json","name":"海阔接口"},
-{"url": "clan://localhost/Box/js.json","name":"JS专线"},
-{"url": "clan://localhost/Box/py.json","name":"PY专线"},
-{"url": "clan://localhost/Box/sp.json","name":"sp接口"},
-{"url": "clan://localhost/Box/xb.json","name":"xb接口"},
-{"url": "clan://localhost/Box/xbpq.json","name":"xBPQ接口"},
-{"url": "clan://localhost/Box/xp.json","name":"xp接口"},
-{"url": "clan://localhost/Box/xyq.json","name":"xyq接口"},
-{"url": "clan://localhost/Box/xyqh.json","name":"xyqh接口"},
-{"url": "clan://localhost/Box/18.json","name":"18接口"},
-{"url": "clan://localhost/Box/vip.json","name":"vip线路"}
+{"url": "file://Box/box.json","name":"接口合集"},
+{"url": "file://Box/app.json","name":"app接口"},
+{"url": "file://Box/hk.json","name":"海阔接口"},
+{"url": "file://Box/js.json","name":"JS专线"},
+{"url": "file://Box/py.json","name":"PY专线"},
+{"url": "file://Box/sp.json","name":"sp接口"},
+{"url": "file://Box/xb.json","name":"xb接口"},
+{"url": "file://Box/xbpq.json","name":"xBPQ接口"},
+{"url": "file://Box/xp.json","name":"xp接口"},
+{"url": "file://Box/xyq.json","name":"xyq接口"},
+{"url": "file://Box/xyqh.json","name":"xyqh接口"},
+{"url": "file://Box/18.json","name":"18接口"},
+{"url": "file://Box/vip.json","name":"vip线路"}
 
 
 ]
