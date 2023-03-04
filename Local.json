@@ -1,0 +1,24 @@
+{"urls": [
+{"url": "clan://localhost/FongMi/adult.json","name":"FongMi AV"},
+{"url": "clan://localhost/FongMi/config.json","name":"FongMi"},
+{"url": "clan://localhost/tang/tang.json","name":"唐三线路"},
+{"url": "clan://localhost/JS/js.json","name":"JS专线"},
+{"url": "clan://localhost/py/py.json","name":"PY专线"},
+{"url": "clan://localhost/py/py2.json","name":"PY专线2"},
+{"url": "clan://localhost/Box/box.jsonn","name":"张弘线路"},
+{"url": "clan://localhost/hh/hh.json","name":"dxawi线路"},
+{"url": "clan://localhost/TVBox/meow2.json","name":"CH猫友️"},
+{"url": "clan://localhost/XC/XC.json","name":"南风XC线路"},
+{"url": "clan://localhost/XYQ/XYQ.json","name":"ptest线路"},
+{"url": "clan://localhost/tvboxhh/fty/fty.json","name":"饭太硬线路"},
+{"url": "clan://localhost/TVBox/ym.json","name":"肥猫线路"},
+{"url": "clan://localhost/py/adult.json","name":"AV"},
+{"url": "clan://localhost/tvboxhh/zbzdb.json","name":"MV"},
+{"url": "clan://localhost/tvboxhh/1110cr.json","name":"直播AV"},
+{"url": "clan://localhost/tvboxhh/duoduolive.json","name":"直播2"},
+{"url": "clan://localhost/tvbox/jar/181.json","name":"彩蛋1"},
+{"url": "clan://localhost/tvbox/jar/182.json","name":"彩蛋2"},
+{"url": "clan://localhost/tvbox/jar/183.json","name":"彩蛋3"}
+
+]
+}
