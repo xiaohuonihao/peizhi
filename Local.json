@@ -16,6 +16,7 @@
 {"url": "file://tvboxhh/zbzdb.json","name":"MV Local"},
 {"url": "file://tvboxhh/1110cr.json","name":"直播AV Local"},
 {"url": "file://tvboxhh/duoduolive.json","name":"直播2Local"},
+{"url": "file://TVlist/TVtoBox.txt","name":"直播2TV"},
 {"url": "file://tvbox/jar/181.json","name":"彩蛋1Local"},
 {"url": "file://tvbox/jar/182.json","name":"彩蛋2Local"},
 {"url": "file://tvbox/jar/183.json","name":"彩蛋3Local"}
