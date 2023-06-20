@@ -13,8 +13,6 @@
 {"url": "file://tvbox/fty/fty.json","name":"饭太硬线路Local"},
 {"url": "file://tvbox/feimao/feimao.json","name":"肥猫线路Local"},
 {"url": "file://tvbox/dxawi/dxawi.json","name":"dxwai local"},
-{"url": "file://tvboxhh/zbzdb.json","name":"MV Local"},
-{"url": "file://tvboxhh/1110cr.json","name":"直播AV Local"},
 {"url": "file://tvboxhh/duoduolive.json","name":"直播2Local"},
 {"url": "file://TVlist/TVtoBox.txt","name":"TVtoBox"},
 {"url": "file://tvbox/jar/181.json","name":"彩蛋1Local"},
