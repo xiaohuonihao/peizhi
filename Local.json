@@ -1,7 +1,7 @@
 {"urls": [
 {"url": "file://tvbox/fongmi/adult.json","name":"FongMi AV Local"},
 {"url": "file://tvbox/fongmi/fongmi.json","name":"FongMi Local"},
-{"url": "file://tang/tang.json","name":"唐三Local"},
+{"url": "file://tvbox/tangsan/tangsan.json","name":"唐三Local"},
 {"url": "file://JS/js.json","name":"JS专线Local"},
 {"url": "file://py/py.json","name":"PY专线Local"},
 {"url": "file://tvbox/xiaoya/xiaoya.json","name":"小雅Local"},
