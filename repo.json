@@ -1,5 +1,6 @@
 { 
 "storeHouse": [ 
-{ "sourceName": "Local", "sourceUrl": "clan://localhost/Repo/Local" }, 
-{ "sourceName": "Online1", "sourceUrl": "clan://localhost/Repo/Online1" }
+{ "sourceName": "Local", "sourceUrl": "https://raw.githubusercontent.com/xpsun68/TvBox/main/Local.json" }, 
+{ "sourceName": "Online1", "sourceUrl": "https://raw.githubusercontent.com/xpsun68/TvBox/main/Online1.json" },
+{ "sourceName": "Online1", "sourceUrl": "https://raw.githubusercontent.com/xpsun68/TvBox/main/Online2.json" }
 ] }
