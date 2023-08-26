@@ -1,0 +1,6 @@
+{ 
+"storeHouse": [ 
+{ "sourceName": "Local", "sourceUrl": "clan://localhost/Repo/Local" }, 
+{ "sourceName": "Online1", "sourceUrl": "clan://localhost/Repo/521/Online1.json" },
+{ "sourceName": "Online1", "sourceUrl": "clan://localhost/Repo/521/Online2.json" }
+] }
