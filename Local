@@ -1,6 +1,6 @@
 {"urls": [
 {"url": "clan://localhost/tvbox/adult/adult.json","name":"FongMi adult Local"},
-{"url": "clan://localhost/tvbox/fongmi/fongmi.json","name":"FongMi Local"},
+{"url": "clan://localhost/tvbox/fengmi/fengmi.json","name":"FongMi Local"},
 {"url": "clan://localhost/tvbox/tangsan/tangsan.json","name":"唐三Local"},
 {"url": "clan://localhost/JS/js.json","name":"JS专线Local"},
 {"url": "clan://localhost/py/py.json","name":"PY专线Local"},
