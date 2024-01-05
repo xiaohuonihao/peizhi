@@ -5,8 +5,8 @@
 {"url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json","name":"湯氏X"},
 {"url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json","name":"FongMi AV"},
 {"url": "http://home.jundie.top:81/top98.json","name":"俊佬线路"},
-{"url": "https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json","name":"OK_FM"},
-{"url": "https://gh.caioa.link/pg/jsm.json","name":"PG"},
+{"url": "https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json","name":"OK_FM only"},
+{"url": "https://gh.caioa.link/pg/jsm.json","name":"PG online"},
 {"url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json","name":"霜辉月明PY"},
 {"url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json","name":"2哈线路"},
 {"url": "https://download.kstore.space/download/2863/01.txt","name":"潇洒"},
@@ -54,10 +54,10 @@
 {"url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json","name":"T4 TV"},
 {"url": "https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json","name":"码上放生"},
 {"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云js"},
-{"url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8","name":"不良帅xx"},
+{"url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json","name":"小苹果"},
 {"url": "https://gitee.com/lichuanrui/iptv/raw/master/chuanshuo.json","name":"一点技能"},
 {"url": "https://pastebin.com/raw/5NHaxyGR","name":"道长"},
-{"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2","name":"欧歌xx"}
+{"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index","name":"欧歌"}
 
 ]
 }
