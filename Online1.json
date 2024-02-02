@@ -23,7 +23,7 @@
 {"url": "http://rihou.cc:88/荷城茶秀","name":"荷城茶秀"},
 {"url": "http://pandown.pro/tvbox/tvbox.json","name":"巧计线路"},
 {"url": "https://raw.githubusercontent.com/liu673cn/box/main/vod/m.json","name":"老刘备线路"},
-{"url": "https://agit.ai/wuheng42/wh/raw/branch/master/zy","name":"U酷"},
+{"url": "https://agit.ai/wuheng42/wh/raw/branch/master/zy","name":"U酷wh42"},
 {"url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json","name":"apix"},
 {"url": "https://github.com/YuanHsing/freed/raw/master/TVBox/meow2.json","name":"YuanHsing meow2"},
 {"url": "http://xhww.fun:63/小米//DEMO.json","name":"小米"},
@@ -33,7 +33,7 @@
 {"url": "https://raw.githubusercontent.com/momoyuyuer/4k/main/moyuer.json","name":"摸鱼"},
 {"url": "https://raw.githubusercontent.com/chengxueli818913/TV/main/api.json","name":"佰欣园"},
 {"url": "https://raw.githubusercontent.com/c120487/00/main/0515.txt","name":"00tv1"},
-{"url": "https://jihulab.com/bestyr1/xiaobai/-/raw/master/cs.json","name":"xiaobai"},
+{"url": "https://jihulab.com/bestyr1/xiaobai/-/raw/master/cs.json","name":"xiaobai xx"},
 {"url": "https://qu.ax/uanw.json","name":"小武哥蜂蜜"},
 {"url": "http://饭太硬.top/tv","name":"饭太硬"},
 {"url": "https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/vod.txt","name":"唐三vod测试"},
@@ -61,6 +61,10 @@
 {"url": "https://agit.ai/jyj/kvymin/raw/branch/master/Pandora.json","name":"Pandora"},
 {"url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"Piza PG"},
 {"url": "http://yydf.540734621.xyz/vx/pg.json","name":"xyz PG"},
+{"url": "https://raw.githubusercontent.com/sf467/box/main/m.json","name":"sf467"},
+{"url": "http://akun.work.gd/upload/jsm.json","name":"akun"},
+{"url": "http://akun.work.gd/upload/18cj.json","name":"akun18"},
+{"url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json","name":"gaotian18"},
 {"url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt","name":"OK"},
 {"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index","name":"欧歌"}
 
