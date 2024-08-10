@@ -1,5 +1,6 @@
 {"urls": [
 {"url": "http://yingshi.fongmi.eu.org","name":"蜂蜜"},
+{"url": "https://t4.doube.eu.org/config.json","name":"T4 doube"},
 {"url": "http://152.32.170.60/ihymn/tvbox/raw/branch/master/tb.txt","name":"ihymn"},
 {"url": "http://152.32.170.60/Amanchi/Am/raw/branch/master/am.json","name":"Amanchi"},
 {"url": "http://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8","name":"一个分享者"},
