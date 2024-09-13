@@ -1,8 +1,9 @@
 {"urls": [
 {"url": "http://yingshi.fongmi.eu.org","name":"蜂蜜"},
-{"url": "https://t4.doube.eu.org/config.json","name":"T4doube"},
+{"url": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/daiweichun.json","name":"daiweichun"},
 {"url": "https://4tvbox.ggff.net/config.json","name":"T4三哥"},
 {"url": "https://zhangqun1818.serv00.net/zq/api.json","name":"T4zhangqun1818"},
+{"url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json","name":"qist"},
 {"url": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json","name":"Dong-learn9"},
 {"url": "http://ok321.top/tv","name":"OK321西夏"},
 {"url": "https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json","name":"爱TV吧"},
