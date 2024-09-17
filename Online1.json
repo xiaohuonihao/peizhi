@@ -1,6 +1,8 @@
 {"urls": [
 {"url": "http://yingshi.fongmi.eu.org","name":"蜂蜜"},
 {"url": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/daiweichun.json","name":"daiweichun"},
+{"url": "https://raw.githubusercontent.com/Greatwallcorner/CatVodSpider/master/json/config.json","name":"Greatwallcorner"},
+{"url": "https://xn--fjq10yonhfky.xyz/ql.json","name":"QL"},
 {"url": "https://4tvbox.ggff.net/config.json","name":"T4三哥"},
 {"url": "https://zhangqun1818.serv00.net/zq/api.json","name":"T4zhangqun1818"},
 {"url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json","name":"qist"},
@@ -84,6 +86,7 @@
 {"url": "http://xiaohu.xzam.cn/xiaohu","name":"小胡"},
 {"url": "https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ","name":"夜猫"},
 {"url": "http://tvbox.王二小放牛娃.xyz","name":"王二小"},
+{"url": "https://9280.kstore.space/wex.json","name":"王二小放牛娃"},
 {"url": "http://www.wya6.cn/tv/yc.json","name":"无意"},
 {"url": "https://gitee.com/tvkj/tw/raw/main/svip.json","name":"天微"},
 {"url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json","name":"雷蒙"},
