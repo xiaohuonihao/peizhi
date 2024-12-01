@@ -1,5 +1,6 @@
 {"urls": [
 {"url": "http://yingshi.fongmi.eu.org","name":"蜂蜜"},
+{"url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-ST.json","name":"doki"},
 {"url": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/daiweichun.json","name":"daiweichun"},
 {"url": "https://raw.githubusercontent.com/Greatwallcorner/CatVodSpider/master/json/config.json","name":"Greatwallcorner"},
 {"url": "https://xn--fjq10yonhfky.xyz/ql.json","name":"QL"},
